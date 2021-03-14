@@ -8,5 +8,8 @@ namespace LearnTabbedPage
 		{
 			InitializeComponent();
 		}
+		
+		
+		
 	}
 }
